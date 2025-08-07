@@ -19,6 +19,3 @@ const StudentForm: React.FC = () => {
 };
 
 export default StudentForm;
-```
-
-```ts
