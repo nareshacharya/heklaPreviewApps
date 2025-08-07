@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+# Hekla Preview App
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This app was generated using **Hekla**, your AI-based app builder for Pega.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
